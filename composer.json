@@ -1,0 +1,16 @@
+{
+    "name": "c-paulo/organizer",
+    "description": "Aplicativo de agendamento de tarefas, eventos e reuni\u0000es",
+    "type": "project",
+    "require": {
+        "faapz/pdo": "^2.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Corintio Paulo",
+            "email": "corintiopaulo@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
